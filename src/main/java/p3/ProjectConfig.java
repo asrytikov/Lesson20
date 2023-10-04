@@ -1,11 +1,10 @@
-package org.example;
+package p3;
 
-import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan(basePackages = "org.example")
+@ComponentScan(basePackages = "p3")
 public class ProjectConfig {
 
   /*  @Bean

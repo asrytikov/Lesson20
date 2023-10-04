@@ -1,2 +1,4 @@
-package p4;public class Comment {
+package p4;
+
+public class Comment {
 }

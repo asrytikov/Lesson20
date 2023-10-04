@@ -1,2 +1,4 @@
-package p2;public class CommentService {
+package p2;
+
+public class CommentService {
 }
